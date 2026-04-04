@@ -196,7 +196,7 @@ section h2::after{
     text-align: left;
 }
 footer{
-    margin:  3rem;
+    margin-top:  3rem;
     background-color: var(--violet-doux);
     padding: 3rem  0;
     text-align: center;
